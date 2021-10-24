@@ -10,7 +10,7 @@ In the following index.html file few changes have been made to follow the requir
 5. Comments throughout the HTML file are shown to know where changes are made.
 6. 
 ## Screenshots
-
+![alt text](https://github.com/[hakki1810]/[Hakki-hw1-code-refactoring]/blob/[master})
 ## Link to the deployed application
 You can view the deployed application [here](paste_link_here).
 ## Link to the Github repository
